@@ -1,0 +1,7 @@
+Welcome to my server
+Server commands: INFO, ECHO, CD, LIST, QUIT
+* INFO : Get information about the server
+* ECHO : Send an echo request to the server to test the connection
+* CD: Set current server directory
+* LIST : Get a list of all files in the current server directory
+* QUIT: Submit a disconnect request
